@@ -13,6 +13,10 @@ Template Blogger properti premium. Edisi Free untuk mencoba tampilan dan pengelo
 - [Beli SaeResidence Premium](https://www.temablogger.com/2026/10/saeresidence-template-blogger-premium-real-estate.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
 
+## Dukung developer
+
+Jika tema ini bermanfaat, beri ⭐ Star pada [repositori ini](https://github.com/tema-blogger/saeresidence-template-blogger-real-estate-free) dan bagikan tautannya kepada pengguna Blogger lain. Dukungan Anda membantu pengembangan tema gratis. Terima kasih sudah menghargai karya developer; semoga bermanfaat dan membawa berkah.
+
 ## Fitur tampilan
 
 - Peta properti
